@@ -1,0 +1,12 @@
+C:\Users\rjaps\Epicodus\C#\Class\Palindromes.Solution\Palindromes\bin\Debug\net5.0\Palindromes.deps.json
+C:\Users\rjaps\Epicodus\C#\Class\Palindromes.Solution\Palindromes\bin\Debug\net5.0\Palindromes.dll
+C:\Users\rjaps\Epicodus\C#\Class\Palindromes.Solution\Palindromes\bin\Debug\net5.0\ref\Palindromes.dll
+C:\Users\rjaps\Epicodus\C#\Class\Palindromes.Solution\Palindromes\bin\Debug\net5.0\Palindromes.pdb
+C:\Users\rjaps\Epicodus\C#\Class\Palindromes.Solution\Palindromes\obj\Debug\net5.0\Palindromes.csproj.AssemblyReference.cache
+C:\Users\rjaps\Epicodus\C#\Class\Palindromes.Solution\Palindromes\obj\Debug\net5.0\Palindromes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjaps\Epicodus\C#\Class\Palindromes.Solution\Palindromes\obj\Debug\net5.0\Palindromes.AssemblyInfoInputs.cache
+C:\Users\rjaps\Epicodus\C#\Class\Palindromes.Solution\Palindromes\obj\Debug\net5.0\Palindromes.AssemblyInfo.cs
+C:\Users\rjaps\Epicodus\C#\Class\Palindromes.Solution\Palindromes\obj\Debug\net5.0\Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\rjaps\Epicodus\C#\Class\Palindromes.Solution\Palindromes\obj\Debug\net5.0\Palindromes.dll
+C:\Users\rjaps\Epicodus\C#\Class\Palindromes.Solution\Palindromes\obj\Debug\net5.0\ref\Palindromes.dll
+C:\Users\rjaps\Epicodus\C#\Class\Palindromes.Solution\Palindromes\obj\Debug\net5.0\Palindromes.pdb
